@@ -1,0 +1,28 @@
+body {
+  background-color: initial;
+  font-size: 1.3em;
+}
+
+#frodo {
+  background-color: darkgreen;
+  font-family: "Courier New", Courier, monospace;
+  color: beige;
+}
+
+#galadriel {
+  background-color: lightblue;
+  font-family: "Times New Roman", Times, serif;
+  color: initial;
+}
+
+#morgoth {
+  background-color: rgb(38, 37, 42);
+  font-family: "Courier New", Courier, monospace;
+  color: orange;
+}
+
+#legolas {
+  background-color: lightgreen;
+  font-family: Brush Script MT;
+  color: darkolivegreen;
+}
