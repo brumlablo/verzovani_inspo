@@ -1,3 +1,3 @@
-This is an inspo repository for Czechitas.
+This is an inspo repository for Czechitas spring 2026 Testing academy.
 
-Not so funny
+Very interesting
